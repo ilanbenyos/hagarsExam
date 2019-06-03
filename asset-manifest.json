@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/public/static/css/main.7ff9419a.chunk.css",
-    "main.js": "/public/static/js/main.644365e7.chunk.js",
-    "main.js.map": "/public/static/js/main.644365e7.chunk.js.map",
-    "runtime~main.js": "/public/static/js/runtime~main.de5d37ed.js",
-    "runtime~main.js.map": "/public/static/js/runtime~main.de5d37ed.js.map",
-    "static/js/2.46397269.chunk.js": "/public/static/js/2.46397269.chunk.js",
-    "static/js/2.46397269.chunk.js.map": "/public/static/js/2.46397269.chunk.js.map",
-    "index.html": "/public/index.html",
-    "precache-manifest.fde1d29d91dd55825c1813658c830b6d.js": "/public/precache-manifest.fde1d29d91dd55825c1813658c830b6d.js",
-    "service-worker.js": "/public/service-worker.js",
-    "static/css/main.7ff9419a.chunk.css.map": "/public/static/css/main.7ff9419a.chunk.css.map"
+    "main.css": "/hagarsExam/static/css/main.7ff9419a.chunk.css",
+    "main.js": "/hagarsExam/static/js/main.ca03b6a5.chunk.js",
+    "main.js.map": "/hagarsExam/static/js/main.ca03b6a5.chunk.js.map",
+    "runtime~main.js": "/hagarsExam/static/js/runtime~main.2a0c331c.js",
+    "runtime~main.js.map": "/hagarsExam/static/js/runtime~main.2a0c331c.js.map",
+    "static/js/2.46397269.chunk.js": "/hagarsExam/static/js/2.46397269.chunk.js",
+    "static/js/2.46397269.chunk.js.map": "/hagarsExam/static/js/2.46397269.chunk.js.map",
+    "index.html": "/hagarsExam/index.html",
+    "precache-manifest.f70e1abed1967f74be8a8d47811dc856.js": "/hagarsExam/precache-manifest.f70e1abed1967f74be8a8d47811dc856.js",
+    "service-worker.js": "/hagarsExam/service-worker.js",
+    "static/css/main.7ff9419a.chunk.css.map": "/hagarsExam/static/css/main.7ff9419a.chunk.css.map"
   }
 }
