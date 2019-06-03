@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/hagarsExam/precache-manifest.0a767c648d2a78dc78d4607a48aeb09a.js"
+  "/hagarsExam/precache-manifest.0d2b97b873533126cc5e832bb4083a20.js"
 );
 
 self.addEventListener('message', (event) => {
